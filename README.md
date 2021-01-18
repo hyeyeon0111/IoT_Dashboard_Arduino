@@ -3,12 +3,12 @@
 ![arduino_run](https://user-images.githubusercontent.com/56067179/104873250-6e44cf80-5993-11eb-9951-de6ab21cbece.gif)
 
 
-### Structure
+## Structure
 
 <img src = "https://user-images.githubusercontent.com/56067179/104874295-ef04cb00-5995-11eb-94fa-f6fa496ca107.png" width = "600px">
 
 
-### Tutorial
+## Tutorial
 
 - 아두이노 보드, 초음파 거리 센서, LED 3개와 피에조 부저를 준비합니다.
 - 아두이노 보드를 다음과 같은 핀 번호로 구성합니다.
