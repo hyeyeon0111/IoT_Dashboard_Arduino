@@ -7,6 +7,11 @@
 
 <img src = "https://user-images.githubusercontent.com/56067179/104874295-ef04cb00-5995-11eb-94fa-f6fa496ca107.png" width = "600px">
 
+## Result
+- AWS Log 테이블
+
+<img src = "https://user-images.githubusercontent.com/56067179/104898466-05724d00-59bd-11eb-842d-0ddb72540ba9.png" width="600px">
+
 
 ## Tutorial
 
